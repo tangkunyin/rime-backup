@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.5.3
   timestamps:
     default: 1561294610
-    default.custom: 1546777383
+    default.custom: 1603273218
     easy_en.custom: 0
     easy_en.schema: 1502500809
     key_bindings: 1561294610
@@ -64,7 +64,7 @@ key_binder:
     - {accept: "Control+Shift+percent", toggle: extended_charset, when: always}
   import_preset: default
 menu:
-  page_size: 8
+  page_size: 10
 punctuator:
   full_shape:
     " ": {commit: "　"}

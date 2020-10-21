@@ -4,12 +4,12 @@
 #@/rime_version	1.3.2
 #@/tick	14
 #@/user_id	47d94b64-518c-4017-b837-441ef302fb7b
-active 	active	c=1 d=1 t=9
-clone 	clone	c=1 d=1 t=8
-java 	java	c=4 d=3.94585 t=12
-leader 	leader	c=2 d=1.96561 t=13
-lisa 	lisa	c=2 d=1.99501 t=3
+active 	active	c=1 d=0.97531 t=14
+clone 	clone	c=1 d=0.970446 t=14
+java 	java	c=4 d=3.90659 t=14
+leader 	leader	c=2 d=1.95581 t=14
+lisa 	lisa	c=2 d=1.88825 t=14
 native 	native	c=1 d=1 t=14
-offer 	offer	c=2 d=1.9802 t=5
-team 	team	c=1 d=1 t=7
-update 	update	c=1 d=1 t=4
+offer 	offer	c=2 d=1.89307 t=14
+team 	team	c=1 d=0.965605 t=14
+update 	update	c=1 d=0.951229 t=14
